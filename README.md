@@ -24,4 +24,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 <!-- Add a comment to my README -->
 
-![Code Coverage Badge](https://github.com/nejmiyassine/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/nejmiyassine/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/nejmiyassine/learn-cicd-starter/actions/workflows/ci.yml)
